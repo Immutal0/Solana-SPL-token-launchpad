@@ -23,7 +23,7 @@ Follow the steps below to get your Solana SPL Token Launchpad up and running loc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/damon-web3ai/solana-spl-token-launchpad.git
+git clone https://github.com/Immutal0/solana-spl-token-launchpad.git
 cd solana-spl-token-launchpad
 ```
 
@@ -123,7 +123,7 @@ If you find any bugs or have ideas for new features, open an issue or submit a p
 
 For any questions or support, feel free to reach out to me:  
 - **Telegram**: [@Immutal0](https://t.me/Immutal0)
-- **Twitter**: [@Immutal0](https://twitter.com/Immutal0)
+- **Twitter**: [@Immutal0](https://x.com/Immutal0)
 
 ---
 
