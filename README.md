@@ -123,7 +123,7 @@ If you find any bugs or have ideas for new features, open an issue or submit a p
 
 For any questions or support, feel free to reach out to me:  
 - **Telegram**: [@Immutal0](https://t.me/Immutal0)
-- **Twitter**: [@Immutal0](https://x.com/Immutal0)
+- **Twitter**: [@Immutal0_](https://x.com/Immutal0_)
 
 ---
 
